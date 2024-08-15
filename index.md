@@ -7,7 +7,7 @@ layout: home
 이수진의 Naver Boost Camp AI TECH 7기 일일보고서를 확인하실 수 있습니다. 
 <br>
 
-# **level 1** 
+### **level 1** 
 <span style="color:grey">2024.08.05 ~ 2024.09.29</span>
 * [Week 1] Pytorch
   * [![Daily Report](https://img.shields.io/badge/Day01-red?style=flat)](https://owlemily.github.io/day001)
@@ -64,7 +64,7 @@ layout: home
   [![Daily Report](https://img.shields.io/badge/Day35-blue?style=flat)](https://owelmily.github.io/day035)
 <br>
 
-# **level 2**
+### **level 2**
 <span style="color:grey">2024.09.30 ~ 2024.11.10</span>
 * [Week 8] NLP: MRC
   * [![Daily Report](https://img.shields.io/badge/Day36-red?style=flat)](https://owelmily.github.io/day036)
@@ -107,7 +107,7 @@ layout: home
   [![Daily Report](https://img.shields.io/badge/Day60-blue?style=flat)](https://owelmily.github.io/day060)
 <br>
 
-# **level 3**
+### **level 3**
 <span style="color:grey">2024.11.11 ~ 2025.01.09</span>
 * [Week 13] Generation for NLP
   * [![Daily Report](https://img.shields.io/badge/Day61-red?style=flat)](https://owelmily.github.io/day061)
@@ -170,7 +170,7 @@ layout: home
   [![Daily Report](https://img.shields.io/badge/Day100-blue?style=flat)](https://owelmily.github.io/day100)
 <br>
 
-# **level 4**
+### **level 4**
 <span style="color:grey">2025.01.10 ~ 2025.02.28</span>
 * [Week 21] 기업 해커톤
   * [![Daily Report](https://img.shields.io/badge/Day101-red?style=flat)](https://owelmily.github.io/day101)
