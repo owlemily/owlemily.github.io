@@ -55,9 +55,148 @@ layout: home
   ![Daily Report](https://img.shields.io/badge/추석연휴-grey?style=flat)
   ![Daily Report](https://img.shields.io/badge/새로고침데이-grey?style=flat)
   [![Daily Report](https://img.shields.io/badge/Day30-blue?style=flat)](https://owelmily.github.io/day030)
+<br><br>
+* [Week 7] NLP 기초 프로젝트
+  * [![Daily Report](https://img.shields.io/badge/Day31-red?style=flat)](https://owelmily.github.io/day031)
+  [![Daily Report](https://img.shields.io/badge/Day32-orange?style=flat)](https://owelmily.github.io/day032)
+  [![Daily Report](https://img.shields.io/badge/Day33-yellow?style=flat)](https://owelmily.github.io/day033)
+  [![Daily Report](https://img.shields.io/badge/Day34-green?style=flat)](https://owelmily.github.io/day034)
+  [![Daily Report](https://img.shields.io/badge/Day35-blue?style=flat)](https://owelmily.github.io/day035)
+<br><br>
 ## **level 2**
 <span style="color:grey">2024.09.30 ~ 2024.11.10</span>
+* [Week 8] NLP: MRC
+  * [![Daily Report](https://img.shields.io/badge/Day36-red?style=flat)](https://owelmily.github.io/day036)
+  [![Daily Report](https://img.shields.io/badge/Day37-orange?style=flat)](https://owelmily.github.io/day037)
+  [![Daily Report](https://img.shields.io/badge/Day38-yellow?style=flat)](https://owelmily.github.io/day038)
+  ![Daily Report](https://img.shields.io/badge/개천절-grey?style=flat)
+  ![Daily Report](https://img.shields.io/badge/새로고침데이-grey?style=flat)
+  ![Daily Report](https://img.shields.io/badge/새로고침데이-grey?style=flat)
+  ![Daily Report](https://img.shields.io/badge/새로고침데이-grey?style=flat)
+  ![Daily Report](https://img.shields.io/badge/한글날-grey?style=flat)
+  [![Daily Report](https://img.shields.io/badge/Day39-green?style=flat)](https://owelmily.github.io/day039)
+  [![Daily Report](https://img.shields.io/badge/Day40-blue?style=flat)](https://owelmily.github.io/day040)
+<br><br>
+* [Week 9] NLP: MRC
+  * [![Daily Report](https://img.shields.io/badge/Day41-red?style=flat)](https://owelmily.github.io/day041)
+  [![Daily Report](https://img.shields.io/badge/Day42-orange?style=flat)](https://owelmily.github.io/day042)
+  [![Daily Report](https://img.shields.io/badge/Day43-yellow?style=flat)](https://owelmily.github.io/day043)
+  [![Daily Report](https://img.shields.io/badge/Day44-green?style=flat)](https://owelmily.github.io/day044)
+  [![Daily Report](https://img.shields.io/badge/Day45-blue?style=flat)](https://owelmily.github.io/day045)
+<br><br>
+* [Week 10] NLP: MRC
+  * [![Daily Report](https://img.shields.io/badge/Day46-red?style=flat)](https://owelmily.github.io/day046)
+  [![Daily Report](https://img.shields.io/badge/Day47-orange?style=flat)](https://owelmily.github.io/day047)
+  [![Daily Report](https://img.shields.io/badge/Day48-yellow?style=flat)](https://owelmily.github.io/day048)
+  [![Daily Report](https://img.shields.io/badge/Day49-green?style=flat)](https://owelmily.github.io/day049)
+  [![Daily Report](https://img.shields.io/badge/Day50-blue?style=flat)](https://owelmily.github.io/day050)
+<br><br>
+* [Week 11] Data Centric NLP
+  * [![Daily Report](https://img.shields.io/badge/Day51-red?style=flat)](https://owelmily.github.io/day051)
+  [![Daily Report](https://img.shields.io/badge/Day52-orange?style=flat)](https://owelmily.github.io/day052)
+  [![Daily Report](https://img.shields.io/badge/Day53-yellow?style=flat)](https://owelmily.github.io/day053)
+  [![Daily Report](https://img.shields.io/badge/Day54-green?style=flat)](https://owelmily.github.io/day054)
+  [![Daily Report](https://img.shields.io/badge/Day55-blue?style=flat)](https://owelmily.github.io/day055)
+<br><br>
+* [Week 12] Data Centric NLP
+  * [![Daily Report](https://img.shields.io/badge/Day56-red?style=flat)](https://owelmily.github.io/day046)
+  [![Daily Report](https://img.shields.io/badge/Day57-orange?style=flat)](https://owelmily.github.io/day057)
+  [![Daily Report](https://img.shields.io/badge/Day58-yellow?style=flat)](https://owelmily.github.io/day058)
+  [![Daily Report](https://img.shields.io/badge/Day59-green?style=flat)](https://owelmily.github.io/day059)
+  [![Daily Report](https://img.shields.io/badge/Day60-blue?style=flat)](https://owelmily.github.io/day060)
+<br><br>
 ## **level 3**
 <span style="color:grey">2024.11.11 ~ 2025.01.09</span>
-## **level 5**
+* [Week 13] Generation for NLP
+  * [![Daily Report](https://img.shields.io/badge/Day61-red?style=flat)](https://owelmily.github.io/day061)
+  [![Daily Report](https://img.shields.io/badge/Day62-orange?style=flat)](https://owelmily.github.io/day062)
+  [![Daily Report](https://img.shields.io/badge/Day63-yellow?style=flat)](https://owelmily.github.io/day063)
+  [![Daily Report](https://img.shields.io/badge/Day64-green?style=flat)](https://owelmily.github.io/day064)
+  [![Daily Report](https://img.shields.io/badge/Day65-blue?style=flat)](https://owelmily.github.io/day065)
+<br><br>
+* [Week 14] Generation for NLP
+  * [![Daily Report](https://img.shields.io/badge/Day66-red?style=flat)](https://owelmily.github.io/day066)
+  [![Daily Report](https://img.shields.io/badge/Day67-orange?style=flat)](https://owelmily.github.io/day067)
+  [![Daily Report](https://img.shields.io/badge/Day68-yellow?style=flat)](https://owelmily.github.io/day068)
+  [![Daily Report](https://img.shields.io/badge/Day69-green?style=flat)](https://owelmily.github.io/day069)
+  [![Daily Report](https://img.shields.io/badge/Day70-blue?style=flat)](https://owelmily.github.io/day070)
+<br><br>
+* [Week 15] Generation for NLP
+  * [![Daily Report](https://img.shields.io/badge/Day71-red?style=flat)](https://owelmily.github.io/day071)
+  [![Daily Report](https://img.shields.io/badge/Day72-orange?style=flat)](https://owelmily.github.io/day072)
+  [![Daily Report](https://img.shields.io/badge/Day73-yellow?style=flat)](https://owelmily.github.io/day073)
+  [![Daily Report](https://img.shields.io/badge/Day74-green?style=flat)](https://owelmily.github.io/day074)
+  [![Daily Report](https://img.shields.io/badge/Day75-blue?style=flat)](https://owelmily.github.io/day075)
+<br><br>
+* [Week 16] Generative AI
+  * [![Daily Report](https://img.shields.io/badge/Day76-red?style=flat)](https://owelmily.github.io/day076)
+  [![Daily Report](https://img.shields.io/badge/Day77-orange?style=flat)](https://owelmily.github.io/day077)
+  [![Daily Report](https://img.shields.io/badge/Day78-yellow?style=flat)](https://owelmily.github.io/day078)
+  [![Daily Report](https://img.shields.io/badge/Day79-green?style=flat)](https://owelmily.github.io/day079)
+  [![Daily Report](https://img.shields.io/badge/Day80-blue?style=flat)](https://owelmily.github.io/day080)
+<br><br>
+* [Week 17] Product Serving
+  * [![Daily Report](https://img.shields.io/badge/Day81-red?style=flat)](https://owelmily.github.io/day081)
+  [![Daily Report](https://img.shields.io/badge/Day82-orange?style=flat)](https://owelmily.github.io/day082)
+  [![Daily Report](https://img.shields.io/badge/Day83-yellow?style=flat)](https://owelmily.github.io/day083)
+  [![Daily Report](https://img.shields.io/badge/Day84-green?style=flat)](https://owelmily.github.io/day084)
+  [![Daily Report](https://img.shields.io/badge/Day85-blue?style=flat)](https://owelmily.github.io/day085)
+<br><br>
+* [Week 18] Product Serving
+  * [![Daily Report](https://img.shields.io/badge/Day86-red?style=flat)](https://owelmily.github.io/day086)
+  [![Daily Report](https://img.shields.io/badge/Day87-orange?style=flat)](https://owelmily.github.io/day087)
+  [![Daily Report](https://img.shields.io/badge/Day88-yellow?style=flat)](https://owelmily.github.io/day088)
+  [![Daily Report](https://img.shields.io/badge/Day89-green?style=flat)](https://owelmily.github.io/day089)
+  [![Daily Report](https://img.shields.io/badge/Day90-blue?style=flat)](https://owelmily.github.io/day090)
+<br><br>
+* [Week 19] 모델 최적화 및 경량화
+  * [![Daily Report](https://img.shields.io/badge/Day91-red?style=flat)](https://owelmily.github.io/day091)
+  [![Daily Report](https://img.shields.io/badge/Day92-orange?style=flat)](https://owelmily.github.io/day092)
+  ![Daily Report](https://img.shields.io/badge/크리스마스-grey?style=flat)
+  [![Daily Report](https://img.shields.io/badge/Day93-yellow?style=flat)](https://owelmily.github.io/day093)
+  [![Daily Report](https://img.shields.io/badge/Day94-green?style=flat)](https://owelmily.github.io/day094)
+  ![Daily Report](https://img.shields.io/badge/새로고침데이-grey?style=flat)
+  ![Daily Report](https://img.shields.io/badge/새로고침데이-grey?style=flat)
+  ![Daily Report](https://img.shields.io/badge/신정-grey?style=flat)
+  [![Daily Report](https://img.shields.io/badge/Day95-blue?style=flat)](https://owelmily.github.io/day095)
+<br><br>
+* [Week 20] NLP: Recent Trends
+  * [![Daily Report](https://img.shields.io/badge/Day96-red?style=flat)](https://owelmily.github.io/day096)
+  [![Daily Report](https://img.shields.io/badge/Day97-orange?style=flat)](https://owelmily.github.io/day097)
+  [![Daily Report](https://img.shields.io/badge/Day98-yellow?style=flat)](https://owelmily.github.io/day098)
+  [![Daily Report](https://img.shields.io/badge/Day99-green?style=flat)](https://owelmily.github.io/day099)
+  [![Daily Report](https://img.shields.io/badge/Day100-blue?style=flat)](https://owelmily.github.io/day100)
+<br><br>
+## **level 4**
 <span style="color:grey">2025.01.10 ~ 2025.02.28</span>
+* [Week 21] 기업 해커톤
+  * [![Daily Report](https://img.shields.io/badge/Day101-red?style=flat)](https://owelmily.github.io/day101)
+  [![Daily Report](https://img.shields.io/badge/Day102-orange?style=flat)](https://owelmily.github.io/day102)
+  [![Daily Report](https://img.shields.io/badge/Day103-yellow?style=flat)](https://owelmily.github.io/day103)
+  [![Daily Report](https://img.shields.io/badge/Day104-green?style=flat)](https://owelmily.github.io/day104)
+  [![Daily Report](https://img.shields.io/badge/Day105-blue?style=flat)](https://owelmily.github.io/day105)
+<br><br>
+* [Week 22] 기업 해커톤
+  * [![Daily Report](https://img.shields.io/badge/Day106-red?style=flat)](https://owelmily.github.io/day106)
+  [![Daily Report](https://img.shields.io/badge/Day107-orange?style=flat)](https://owelmily.github.io/day107)
+  [![Daily Report](https://img.shields.io/badge/Day108-yellow?style=flat)](https://owelmily.github.io/day108)
+  [![Daily Report](https://img.shields.io/badge/Day109-green?style=flat)](https://owelmily.github.io/day109)
+  [![Daily Report](https://img.shields.io/badge/Day110-blue?style=flat)](https://owelmily.github.io/day110)
+<br><br>
+* [Week 23] 기업 해커톤
+  * [![Daily Report](https://img.shields.io/badge/Day111-red?style=flat)](https://owelmily.github.io/day111)
+  [![Daily Report](https://img.shields.io/badge/Day112-orange?style=flat)](https://owelmily.github.io/day102)
+  ![Daily Report](https://img.shields.io/badge/설날-grey?style=flat)
+  ![Daily Report](https://img.shields.io/badge/설날-grey?style=flat)
+  ![Daily Report](https://img.shields.io/badge/설날-grey?style=flat)
+  ![Daily Report](https://img.shields.io/badge/새로고침데이-grey?style=flat)
+  [![Daily Report](https://img.shields.io/badge/Day113-yellow?style=flat)](https://owelmily.github.io/day113)
+  [![Daily Report](https://img.shields.io/badge/Day114-green?style=flat)](https://owelmily.github.io/day114)
+  [![Daily Report](https://img.shields.io/badge/Day115-blue?style=flat)](https://owelmily.github.io/day115)
+<br><br>
+* [Week 24] 기업 해커톤
+  * [![Daily Report](https://img.shields.io/badge/Day116-red?style=flat)](https://owelmily.github.io/day116)
+  [![Daily Report](https://img.shields.io/badge/Day117-orange?style=flat)](https://owelmily.github.io/day117)
+  [![Daily Report](https://img.shields.io/badge/Day118-yellow?style=flat)](https://owelmily.github.io/day118)
+  [![Daily Report](https://img.shields.io/badge/Day119-green?style=flat)](https://owelmily.github.io/day119)
+  [![Daily Report](https://img.shields.io/badge/Day120-blue?style=flat)](https://owelmily.github.io/day120)
