@@ -10,17 +10,17 @@ layout: home
 ## **level 1**
 <span style="color:grey">2024.08.05 ~ 2024.09.29</span>
 * [Week 1] Pytorch
-  [![Daily Report](https://img.shields.io/badge/Day01-red?style=flat)](https://owelmily.github.io/Day001)
+  * [![Daily Report](https://img.shields.io/badge/Day01-red?style=flat)](https://owelmily.github.io/Day001)
   [![Daily Report](https://img.shields.io/badge/Day02-orange?style=flat)](https://owelmily.github.io/Day002)
   [![Daily Report](https://img.shields.io/badge/Day03-yellow?style=flat)](https://owelmily.github.io/Day003)
   [![Daily Report](https://img.shields.io/badge/Day04-green?style=flat)](https://owelmily.github.io/Day004)
   [![Daily Report](https://img.shields.io/badge/Day05-blue?style=flat)](https://owelmily.github.io/Day005)
 <br><br>
 * [Week 2] ML LifeCycle
-  [![Daily Report](https://img.shields.io/badge/Day06-red?style=flat)](https://owelmily.github.io/Day006)
+  * [![Daily Report](https://img.shields.io/badge/Day06-red?style=flat)](https://owelmily.github.io/Day006)
   [![Daily Report](https://img.shields.io/badge/Day07-orange?style=flat)](https://owelmily.github.io/Day007)
   [![Daily Report](https://img.shields.io/badge/Day08-yellow?style=flat)](https://owelmily.github.io/Day008)
-  [![Daily Report](https://img.shields.io/badge/광복절-grey?style=flat)]
+  [![Daily Report](https://img.shields.io/badge/'광복절'-grey?style=flat)]
   [![Daily Report](https://img.shields.io/badge/Day09-green?style=flat)](https://owelmily.github.io/Day009)
   [![Daily Report](https://img.shields.io/badge/Day10-blue?style=flat)](https://owelmily.github.io/Day010)
 <br><br>
