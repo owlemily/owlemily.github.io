@@ -8,6 +8,20 @@ layout: home
 <br>
 
 ## **level 1**
-<span style="color:grey">2024.08.05 ~ 2024.03.22</span>
+<span style="color:grey">2024.08.05 ~ 2024.09.29</span>
+* [Week 1] Pytorch
+  * [![Daily Report](https://img.shields.io/badge/Day01-red?style=flat](https://owelmily.github.io/Day001)
+  [![Daily Report](https://img.shields.io/badge/Day02-orange?style=flat)](https://owelmily.github.io/Day002)
+  [![Daily Report](https://img.shields.io/badge/Day03-yellow?style=flat)](https://owelmily.github.io/Day003)
+  [![Daily Report](https://img.shields.io/badge/Day04-green?style=flat)](https://owelmily.github.io/Day004)
+  [![Daily Report](https://img.shields.io/badge/Day05-blue?style=flat)](https://owelmily.github.io/Day005)
+<br><br>
+
+<br><br>
+
 ## **level 2**
-<span style="color:grey">2024.08.05 ~ 2024.03.22</span>
+<span style="color:grey">2024.09.30 ~ 2024.11.10</span>
+## **level 3**
+<span style="color:grey">2024.11.11 ~ 2025.01.09</span>
+## **level 5**
+<span style="color:grey">2025.01.10 ~ 2025.02.28</span>
