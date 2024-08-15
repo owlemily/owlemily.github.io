@@ -10,7 +10,7 @@ layout: home
 ## **level 1**
 <span style="color:grey">2024.08.05 ~ 2024.09.29</span>
 * [Week 1] Pytorch
-  * [![Daily Report](https://img.shields.io/badge/Day01-red?style=flat](https://owelmily.github.io/Day001)
+  * [![Daily Report](https://img.shields.io/badge/Day01-red?style=flat)](https://owelmily.github.io/Day001)
   [![Daily Report](https://img.shields.io/badge/Day02-orange?style=flat)](https://owelmily.github.io/Day002)
   [![Daily Report](https://img.shields.io/badge/Day03-yellow?style=flat)](https://owelmily.github.io/Day003)
   [![Daily Report](https://img.shields.io/badge/Day04-green?style=flat)](https://owelmily.github.io/Day004)
