@@ -24,7 +24,6 @@ layout: home
   [![Daily Report](https://img.shields.io/badge/Day09-green?style=flat)](https://owelmily.github.io/Day009)
   [![Daily Report](https://img.shields.io/badge/Day10-blue?style=flat)](https://owelmily.github.io/Day010)
 <br><br>
-
 ## **level 2**
 <span style="color:grey">2024.09.30 ~ 2024.11.10</span>
 ## **level 3**
