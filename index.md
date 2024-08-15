@@ -24,11 +24,11 @@ layout: home
   [![Daily Report](https://img.shields.io/badge/Day09-green?style=flat)](https://owelmily.github.io/day009)
   [![Daily Report](https://img.shields.io/badge/Day10-blue?style=flat)](https://owelmily.github.io/day010)
 <br><br>
-*[Week 3] EDA & Data Viz.
+* [Week 3] EDA & Data Viz.
   * [![Daily Report](https://img.shields.io/badge/Day11-red?style=flat)](https://owelmily.github.io/day011)
   [![Daily Report](https://img.shields.io/badge/Day12-orange?style=flat)](https://owelmily.github.io/day012)
   [![Daily Report](https://img.shields.io/badge/Day13-yellow?style=flat)](https://owelmily.github.io/day013)
-[![Daily Report](https://img.shields.io/badge/Day14-green?style=flat)](https://owelmily.github.io/day014)
+  [![Daily Report](https://img.shields.io/badge/Day14-green?style=flat)](https://owelmily.github.io/day014)
   [![Daily Report](https://img.shields.io/badge/Day15-blue?style=flat)](https://owelmily.github.io/day015)
 <br><br>
 ## **level 2**
