@@ -31,6 +31,30 @@ layout: home
   [![Daily Report](https://img.shields.io/badge/Day14-green?style=flat)](https://owelmily.github.io/day014)
   [![Daily Report](https://img.shields.io/badge/Day15-blue?style=flat)](https://owelmily.github.io/day015)
 <br><br>
+* [Week 4] NLP 이론
+  * [![Daily Report](https://img.shields.io/badge/Day16-red?style=flat)](https://owelmily.github.io/day016)
+  [![Daily Report](https://img.shields.io/badge/Day17-orange?style=flat)](https://owelmily.github.io/day017)
+  [![Daily Report](https://img.shields.io/badge/Day18-yellow?style=flat)](https://owelmily.github.io/day018)
+  [![Daily Report](https://img.shields.io/badge/Day19-green?style=flat)](https://owelmily.github.io/day019)
+  [![Daily Report](https://img.shields.io/badge/Day20-blue?style=flat)](https://owelmily.github.io/day020)
+<br><br>
+* [Week 5] NLP 이론 
+  * [![Daily Report](https://img.shields.io/badge/Day21-red?style=flat)](https://owelmily.github.io/day021)
+  [![Daily Report](https://img.shields.io/badge/Day22-orange?style=flat)](https://owelmily.github.io/day022)
+  [![Daily Report](https://img.shields.io/badge/Day23-yellow?style=flat)](https://owelmily.github.io/day023)
+  [![Daily Report](https://img.shields.io/badge/Day24-green?style=flat)](https://owelmily.github.io/day024)
+  [![Daily Report](https://img.shields.io/badge/Day25-blue?style=flat)](https://owelmily.github.io/day025)
+<br><br>
+* [Week 6] NLP 기초 프로젝트
+  * [![Daily Report](https://img.shields.io/badge/Day26-red?style=flat)](https://owelmily.github.io/day026)
+  [![Daily Report](https://img.shields.io/badge/Day27-orange?style=flat)](https://owelmily.github.io/day027)
+  [![Daily Report](https://img.shields.io/badge/Day28-yellow?style=flat)](https://owelmily.github.io/day028)
+  [![Daily Report](https://img.shields.io/badge/Day29-green?style=flat)](https://owelmily.github.io/day029)
+  ![Daily Report](https://img.shields.io/badge/추석연휴-grey?style=flat)
+  ![Daily Report](https://img.shields.io/badge/추석-grey?style=flat)
+  ![Daily Report](https://img.shields.io/badge/추석연휴-grey?style=flat)
+  ![Daily Report](https://img.shields.io/badge/새로고침데이-grey?style=flat)
+  [![Daily Report](https://img.shields.io/badge/Day30-blue?style=flat)](https://owelmily.github.io/day030)
 ## **level 2**
 <span style="color:grey">2024.09.30 ~ 2024.11.10</span>
 ## **level 3**
