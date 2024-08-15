@@ -7,8 +7,7 @@ layout: home
 이수진의 Naver Boost Camp AI TECH 7기 일일보고서를 확인하실 수 있습니다. 
 <br>
 
-# **level 1** 
-<span style="color:grey">2024.08.05 ~ 2024.09.29</span>
+# **level 1** <span style="color:grey">2024.08.05 ~ 2024.09.29</span>
 * [Week 1] Pytorch
   * [![Daily Report](https://img.shields.io/badge/Day01-red?style=flat)](https://owlemily.github.io/day001)
   [![Daily Report](https://img.shields.io/badge/Day02-orange?style=flat)](https://owlemily.github.io/day002)
