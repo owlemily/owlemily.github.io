@@ -73,6 +73,7 @@ layout: home
   * 1인당 15~20분 발표 준비
   * 발표 자료는 notion page로 정리해서 Page 공유
   * 멘토링 시작 30분 전까지 발표 자료 공유 필수
+* ![Daily Report](https://img.shields.io/badge/0820-red?style=flat)
 <br><br>
  
 ### **level 2**
