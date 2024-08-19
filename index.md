@@ -65,7 +65,7 @@ layout: home
 <br>
 ### **멘토링(김건우 멘토님)**
 <span style="color:grey">2024.08.05 ~ 2024.09.29</span>
-*  CS224N : Natural Language Processsiong with Deep Learning
+* CS224N : Natural Language Processsiong with Deep Learning
 * 강의 자료: CS224N Youtube
 * 목표: 6회동안 CS224N 강의를 들으며 NLP 기초 지식 쌓기
 * 스터디 규칙
