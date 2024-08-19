@@ -74,6 +74,11 @@ layout: home
   * 발표 자료는 notion page로 정리해서 Page 공유
   * 멘토링 시작 30분 전까지 발표 자료 공유 필수
 * ![Daily Report](https://img.shields.io/badge/8/20-red?style=flat)
+  ![Daily Report](https://img.shields.io/badge/8/27-red?style=flat)
+  ![Daily Report](https://img.shields.io/badge/9/3-red?style=flat)
+  ![Daily Report](https://img.shields.io/badge/9/10-red?style=flat)
+  ![Daily Report](https://img.shields.io/badge/9/17-red?style=flat)
+  ![Daily Report](https://img.shields.io/badge/9/24-red?style=flat)
 <br><br>
  
 ### **level 2**
