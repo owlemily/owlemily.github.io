@@ -12,58 +12,7 @@ layout: home
   * [![Daily Report](https://img.shields.io/badge/Day01-red?style=flat)](https://owlemily.github.io/day001)
   [![Daily Report](https://img.shields.io/badge/Day02-orange?style=flat)](https://owlemily.github.io/day002)
   [![Daily Report](https://img.shields.io/badge/Day03-yellow?style=flat)](https://owlemily.github.io/day003)
-  [![Daily Report](https://img.shields.io/badge/Day04-green?style=flat)](https://owlemily.github.io/day004)
-  [![Daily Report](https://img.shields.io/badge/Day05-blue?style=flat)](https://owlemily.github.io/day005)
-<br><br>
-* [Week 2] ML LifeCycle
-  * [![Daily Report](https://img.shields.io/badge/Day06-red?style=flat)](https://owlemily.github.io/day006)
-  [![Daily Report](https://img.shields.io/badge/Day07-orange?style=flat)](https://owlemily.github.io/day007)
-  [![Daily Report](https://img.shields.io/badge/Day08-yellow?style=flat)](https://owlemily.github.io/day008)
-  ![Daily Report](https://img.shields.io/badge/%EA%B4%91%EB%B3%B5%EC%A0%88-grey?style=flat)
-  [![Daily Report](https://img.shields.io/badge/Day09-green?style=flat)](https://owlemily.github.io/day009)
-  [![Daily Report](https://img.shields.io/badge/Day10-blue?style=flat)](https://owlemily.github.io/day010)
-<br><br>
-* [Week 3] EDA & Data Viz.
-  * [![Daily Report](https://img.shields.io/badge/Day11-red?style=flat)](https://owlemily.github.io/day011)
-  [![Daily Report](https://img.shields.io/badge/Day12-orange?style=flat)](https://owlemily.github.io/day012)
-  [![Daily Report](https://img.shields.io/badge/Day13-yellow?style=flat)](https://owlemily.github.io/day013)
-  [![Daily Report](https://img.shields.io/badge/Day14-green?style=flat)](https://owlemily.github.io/day014)
-  [![Daily Report](https://img.shields.io/badge/Day15-blue?style=flat)](https://owlemily.github.io/day015)
-<br><br>
-* [Week 4] NLP 이론
-  * [![Daily Report](https://img.shields.io/badge/Day16-red?style=flat)](https://owlemily.github.io/day016)
-  [![Daily Report](https://img.shields.io/badge/Day17-orange?style=flat)](https://owlemily.github.io/day017)
-  [![Daily Report](https://img.shields.io/badge/Day18-yellow?style=flat)](https://owlemily.github.io/day018)
-  [![Daily Report](https://img.shields.io/badge/Day19-green?style=flat)](https://owlemily.github.io/day019)
-  [![Daily Report](https://img.shields.io/badge/Day20-blue?style=flat)](https://owlemily.github.io/day020)
-<br><br>
-* [Week 5] NLP 이론 
-  * [![Daily Report](https://img.shields.io/badge/Day21-red?style=flat)](https://owlemily.github.io/day021)
-  [![Daily Report](https://img.shields.io/badge/Day22-orange?style=flat)](https://owlemily.github.io/day022)
-  [![Daily Report](https://img.shields.io/badge/Day23-yellow?style=flat)](https://owlemily.github.io/day023)
-  [![Daily Report](https://img.shields.io/badge/Day24-green?style=flat)](https://owlemily.github.io/day024)
-  [![Daily Report](https://img.shields.io/badge/Day25-blue?style=flat)](https://owlemily.github.io/day025)
-<br><br>
-* [Week 6] NLP 기초 프로젝트
-  * [![Daily Report](https://img.shields.io/badge/Day26-red?style=flat)](https://owlemily.github.io/day026)
-  [![Daily Report](https://img.shields.io/badge/Day27-orange?style=flat)](https://owlemily.github.io/day027)
-  [![Daily Report](https://img.shields.io/badge/Day28-yellow?style=flat)](https://owlemily.github.io/day028)
-  [![Daily Report](https://img.shields.io/badge/Day29-green?style=flat)](https://owlemily.github.io/day029)
-  ![Daily Report](https://img.shields.io/badge/추석연휴-grey?style=flat)
-  ![Daily Report](https://img.shields.io/badge/추석-grey?style=flat)
-  ![Daily Report](https://img.shields.io/badge/추석연휴-grey?style=flat)
-  ![Daily Report](https://img.shields.io/badge/새로고침데이-grey?style=flat)
-  [![Daily Report](https://img.shields.io/badge/Day30-blue?style=flat)](https://owlemily.github.io/day030)
-<br><br>
-* [Week 7] NLP 기초 프로젝트
-  * [![Daily Report](https://img.shields.io/badge/Day31-red?style=flat)](https://owlemily.github.io/day031)
-  [![Daily Report](https://img.shields.io/badge/Day32-orange?style=flat)](https://owlemily.github.io/day032)
-  [![Daily Report](https://img.shields.io/badge/Day33-yellow?style=flat)](https://owlemily.github.io/day033)
-  [![Daily Report](https://img.shields.io/badge/Day34-green?style=flat)](https://owlemily.github.io/day034)
-  [![Daily Report](https://img.shields.io/badge/Day35-blue?style=flat)](https://owlemily.github.io/day035)
-<br><br>
-
-### **멘토링(김건우 멘토님)**
+  [![Daily Report](https://img.shields.io/badge/Day04-green?style=flat)](h요
 <span style="color:grey">2024.08.05 ~ 2024.09.29</span>
 * CS224N : Natural Language Processsiong with Deep Learning
 * 강의 자료: [**CS224N Youtube**](https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4)
