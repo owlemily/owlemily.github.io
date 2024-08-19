@@ -1,8 +1,69 @@
----
 layout: home
 ---
 
-[![Boostcamp Badge](https://img.shields.io/badge/Boostcamp-03c73d?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAQABAMAAACNMzawAAAAD1BMVEX///8Axzxo3ow002S98c3Q8tV1AAAKlUlEQVR42u3dzW0aCxiGUX4awKlg5AqmBDqPTBpAkdcRmrA3C5YenGWULJwNKILnPBVg5vi+xtf6snpSutVC6QAAQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEAAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABAIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEwHV7uk3DvbzSPIAft+n79d+p27xQE3CbZv9xj/8MMHq2bQA7z7YNwAbUPwbagDiAFw+3DeDi4bYB2IA6ABsQB2AD4gBsQB2ADYgDuAyebxrAYuP5tgHYgDgAGxAHYAPqAGxAHIANiAOwAXUANiAOwAbEASz2HnEbwNIjbgOwAXEANqAOYO0ZtwG824A2ABtQB2AD4gDe/Tq4DWBx8JTbAGxAHIANiANYTB5zG4D/HxAHYAPiAGxAHYANiAOwAXEANqAOwAbEAdiAOAAbUAdgA+IA3p2LaQNwOrgOwOngOAAnw+oAbEAcgA2IA7ABdQBOBcQBOB0cB2AD6gBsQByAUwFxAE6G1QHYgDgAGxAHYAPqAGxAHIANiAOwAXUANiAOwAbEAdiAOgAbEAdgA+IAnI2sA3AyLA7A6eA4ABtQB2AD4gBsQByADagDsAFxAM7FxAE4H18HYAPiAGxAHICTYXUATobFAdiAOAAbUAdgA+IAbEAcgA2oA7ABcQA2IA7ABtQB2IA4ABsQB2AD6gCcDo4DcDayDsD5+DgAGxAHYAPqAJwKiANwPj4OwAbUAdiAOAAbEAdgA+oAbEAcgJNhcQDORtYB2IA4ABsQB2AD6gBsQByADYgDsAF1ADYgDsAGxAE4G1kHsATABgBgAwDItgagXf18fB5AfQMAWAMQ34ANAO0OANgAAGwAANkmANotAbABANgAAGwAADYAABsAgA0AwAYAYAMAsAEARDZgBKDdDoB2MwDxRgBsAAA2AAAbAECzFwDaXQCwAQDYAAC6GzAA0G4DgA0AwAYAYAMAsAEA2AAAbAAANgAAGwCADQDABgBgAwCwAQA8dt8AaJc7HQzAX+0BaLcGwAYAYAMAsAEARDdgA0C7AwA2AAAbAIANAMAGAGADAMg1AdBuCYANAMAGAGADALABANgAAGwAADYAABsAQKYZgHgjAO12ANgAAGwAANleAGh3AcAGAGADALABANgAAGwAAL0NGABotwHABgBgAwCwAQDYAABsAAA2AAAbAIANAMAGANDoGwDtHv50MAD/aA9AuzUANgAAGwCADQAgugEbANodALABANgAALJNALRbAmADALivBhvQBvDFBrQBfGxtQPtngJMNaAO47iNbAmADALABANgAAKIbMALQ3oAdADYAABsAgA0AoLkBMwDtDXjUs5GP/PcA1/2L/q8AtL+2izcpvgEAxDcAgLtr7fm2AVxsQBuADagDsAFxAImL/wB80skTbgOwAXEANiAOYHH2iNsAPjziNgAbEAdgA+oAbEAcgA2IA7ABdQA2IA7ABsQB2IA6gNlTbgO48skwAGwAADYAgHtq9JzbAI6ecxuADYgDsAF1ADYgDmDeetJpAP48vA5g8qTbAJwKiAOwAXUANiAOwAbEAdiAOgAbEAdgA+IAbEAdgA2IA7ABcQBOhtUB+Hey4++KDah/W9iAOAAbEH9TbED9u8IGxAE4GxkH4Hx8/QcjGxAHYAPiAJyLqX82diogDsDJsDgAGxAHYAPqAGxAHIANiAOwAXUANiAOwAbEAdiAOgAbEAdgA+IAbEAdgLORcQDOx9cB2IA4ABsQB2AD6gBsQByADYgDcD6+DsD5+DgA5+PjAJwMqwNwMiwOwKmAOAAbUAdgA+IAbEAcgA2oA7ABcQA2IA7ABtQB2IA4ABsQB2AD6gBsQByADYgDcDayDsD5+PibYAP함
+[![Boostcamp Badge](https://img.shields.io/badge/Boostcamp-03c73d?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAQABAMAAACNMzawAAAAD1BMVEX///8Axzxo3ow002S98c3Q8tV1AAAKlUlEQVR42u3dzW0aCxiGUX4awKlg5AqmBDqPTBpAkdcRmrA3C5YenGWULJwNKILnPBVg5vi+xtf6snpSutVC6QAAQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEAAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABAIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEwHV7uk3DvbzSPIAft+n79d+p27xQE3CbZv9xj/8MMHq2bQA7z7YNwAbUPwbagDiAFw+3DeDi4bYB2IA6ABsQB2AD4gBsQB2ADYgDuAyebxrAYuP5tgHYgDgAGxAHYAPqAGxAHIANiAOwAXUANiAOwAbEASz2HnEbwNIjbgOwAXEANqAOYO0ZtwG824A2ABtQB2AD4gDe/Tq4DWBx8JTbAGxAHIANiANYTB5zG4D/HxAHYAPiAGxAHYANiAOwAXEANqAOwAbEAdiAOAAbUAdgA+IA3p2LaQNwOrgOwOngOAAnw+oAbEAcgA2IA7ABdQBOBcQBOB0cB2AD6gBsQByAUwFxAE6G1QHYgDgAGxAHYAPqAGxAHIANiAOwAXUANiAOwAbEAdiAOgAbEAdgA+IAnI2sA3AyLA7A6eA4ABtQB2AD4gBsQByADagDsAFxAM7FxAE4H18HYAPiAGxAHICTYXUATobFAdiAOAAbUAdgA+IAbEAcgA2oA7ABcQA2IA7ABtQB2IA4ABsQB2AD6gCcDo4DcDayDsD5+DgAGxAHYAPqAJwKiANwPj4OwAbUAdiAOAAbEAdgA+oAbEAcgJNhcQDORtYB2IA4ABsQB2AD6gBsQByADYgDsAF1ADYgDsAGxAE4G1kHsATABgBgAwDItgagXf18fB5AfQMAWAMQ34ANAO0OANgAAGwAANkmANotAbABANgAAGwAADYAABsAgA0AwAYAYAMAsAEARDZgBKDdDoB2MwDxRgBsAAA2AAAbAECzFwDaXQCwAQDYAAC6GzAA0G4DgA0AwAYAYAMAsAEA2AAAbAAANgAAGwCADQDABgBgAwCwAQA8dt8AaJc7HQzAX+0BaLcGwAYAYAMAsAEARDdgA0C7AwA2AAAbAIANAMAGAGADAMg1AdBuCYANAMAGAGADALABANgAAGwAADYAABsAQKYZgHgjAO12ANgAAGwAANleAGh3AcAGAGADALABANgAAGwAAL0NGABotwHABgBgAwCwAQDYAABsAAA2AAAbAIANAMAGANDoGwDtHv50MAD/aA9AuzUANgAAGwCADQAgugEbANodALABANgAALJNALRbAmADALivBhvQBvDFBrQBfGxtQPtngJMNaAO47iNbAmADALABANgAAKIbMALQ3oAdADYAABsAgA0AoLkBMwDtDXjUs5GP/PcA1/2L/q8AtL+2izcpvgEAxDcAgLtr7fm2AVxsQBuADagDsAFxAImL/wB80skTbgOwAXEANiAOYHH2iNsAPjziNgAbEAdgA+oAbEAcgA2IA7ABdQA2IA7ABsQB2IA6gNlTbgO48skwAGwAADYAgHtq9JzbAI6ecxuADYgDsAF1ADYgDmDeetJpAP48vA5g8qTbAJwKiAOwAXUANiAOwAbEAdiAOgAbEAdgA+IAbEAdgA2IA7ABcQBOhtUB+Hey4++KDah/W9iAOAAbEH9TbED9u8IGxAE4GxkH4Hx8/QcjGxAHYAPiAJyLqX82diogDsDJsDgAGxAHYAPqAGxAHIANiAOwAXUANiAOwAbEAdiAOgAbEAdgA+IAbEAdgLORcQDOx9cB2IA4ABsQB2AD6gBsQByADYgDcD6+DsD5+DgA5+PjAJwMqwNwMiwOwKmAOAAbUAdgA+IAbEAcgA2oA7ABcQA2IA7ABtQB2IA4ABsQB2AD6gBsQByADYgDcDayDsD5+PibYAPq3wU2IA7A6eA4AOfj6z8I2YA4ABsQB2AD6p+FXwFof/lOhsUBOBlW/3XoGQAbAIANAMAGAGADALABANgAAGwAADYAABsAQKMZgHgDADYAABsAQLYRgHZHAGwAADYAABsAQHQDtgC0OwHQbgKgXfdUAADxDQAgvgEAxDcAgPgGABDfAADiGwBAfAMAiG8AAPENACC+AQDENwCA+AYA8Ls9AO1WvmgbAIANACDbGoB2xdPBAMQ3AID4BgAQ3wAA/ugVgPivAgCIb8AAQLszADYAABsAgA0AwAYAYAMAsAEA2AAAbAAANgAAGwCADQDABgDw2M0AxBsAsAEA2AAAso0AtDsCEN+ALQDtTgC0mwBo9wGAzwEA2AAAuhuwBcDnAABsAAA2AAAbAIANAMAGAGADALABANgAABrtAWi38kXaAABsAADZ1gC0K5wOBiC+AQDENwCA+AYA8GmvAMR/FQBAfAMGANqdAbABANgAAGwAADYAABsAgA0AwAYAYAMAsAEANJoBiDcAYAMAsAEA2AAAbAAANgCAXCMA7Y4AxDdgC0C7EwA2AAAbAIANAKDZBEC7hz0XA0B8A/47gOebdLj66/x5mxf6nAfwdpOu/zovb/fySk2AABAAAkAACAABIAAEgAAQAAJAAAgAASAAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAAQCAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAAgANTtF67Y/R8iG3jmAAAAAElFTkSuQmCC)](https://boostcamp.connect.or.kr/program_ai.html)
+# **Naver Boostcamp AI Tech 7**
+이수진의 Naver Boost Camp AI TECH 7기 일일보고서를 확인하실 수 있습니다. 
+<br>
+
+### **level 1** 
+<span style="color:grey">2024.08.05 ~ 2024.09.29</span>
+* [Week 1] Pytorch
+  * [![Daily Report](https://img.shields.io/badge/Day01-red?style=flat)](https://owlemily.github.io/day001)
+  [![Daily Report](https://img.shields.io/badge/Day02-orange?style=flat)](https://owlemily.github.io/day002)
+  [![Daily Report](https://img.shields.io/badge/Day03-yellow?style=flat)](https://owlemily.github.io/day003)
+  [![Daily Report](https://img.shields.io/badge/Day04-green?style=flat)](https://owlemily.github.io/day004)
+  [![Daily Report](https://img.shields.io/badge/Day05-blue?style=flat)](https://owlemily.github.io/day005)
+<br><br>
+* [Week 2] ML LifeCycle
+  * [![Daily Report](https://img.shields.io/badge/Day06-red?style=flat)](https://owlemily.github.io/day006)
+  [![Daily Report](https://img.shields.io/badge/Day07-orange?style=flat)](https://owlemily.github.io/day007)
+  [![Daily Report](https://img.shields.io/badge/Day08-yellow?style=flat)](https://owlemily.github.io/day008)
+  ![Daily Report](https://img.shields.io/badge/%EA%B4%91%EB%B3%B5%EC%A0%88-grey?style=flat)
+  [![Daily Report](https://img.shields.io/badge/Day09-green?style=flat)](https://owlemily.github.io/day009)
+  [![Daily Report](https://img.shields.io/badge/Day10-blue?style=flat)](https://owlemily.github.io/day010)
+<br><br>
+* [Week 3] EDA & Data Viz.
+  * [![Daily Report](https://img.shields.io/badge/Day11-red?style=flat)](https://owlemily.github.io/day011)
+  [![Daily Report](https://img.shields.io/badge/Day12-orange?style=flat)](https://owlemily.github.io/day012)
+  [![Daily Report](https://img.shields.io/badge/Day13-yellow?style=flat)](https://owlemily.github.io/day013)
+  [![Daily Report](https://img.shields.io/badge/Day14-green?style=flat)](https://owlemily.github.io/day014)
+  [![Daily Report](https://img.shields.io/badge/Day15-blue?style=flat)](https://owlemily.github.io/day015)
+<br><br>
+* [Week 4] NLP 이론
+  * [![Daily Report](https://img.shields.io/badge/Day16-red?style=flat)](https://owlemily.github.io/day016)
+  [![Daily Report](https://img.shields.io/badge/Day17-orange?style=flat)](https://owlemily.github.io/day017)
+  [![Daily Report](https://img.shields.io/badge/Day18-yellow?style=flat)](https://owlemily.github.io/day018)
+  [![Daily Report](https://img.shields.io/badge/Day19-green?style=flat)](https://owlemily.github.io/day019)
+  [![Daily Report](https://img.shields.io/badge/Day20-blue?style=flat)](https://owlemily.github.io/day020)
+<br><br>
+* [Week 5] NLP 이론 
+  * [![Daily Report](https://img.shields.io/badge/Day21-red?style=flat)](https://owlemily.github.io/day021)
+  [![Daily Report](https://img.shields.io/badge/Day22-orange?style=flat)](https://owlemily.github.io/day022)
+  [![Daily Report](https://img.shields.io/badge/Day23-yellow?style=flat)](https://owlemily.github.io/day023)
+  [![Daily Report](https://img.shields.io/badge/Day24-green?style=flat)](https://owlemily.github.io/day024)
+  [![Daily Report](https://img.shields.io/badge/Day25-blue?style=flat)](https://owlemily.github.io/day025)
+<br><br>
+* [Week 6] NLP 기초 프로젝트
+  * [![Daily Report](https://img.shields.io/badge/Day26-red?style=flat)](https://owlemily.github.io/day026)
+  [![Daily Report](https://img.shields.io/badge/Day27-orange?style=flat)](https://owlemily.github.io/day027)
+  [![Daily Report](https://img.shields.io/badge/Day28-yellow?style=flat)](https://owlemily.github.io/day028)
+  [![Daily Report](https://img.shields.io/badge/Day29-green?style=flat)](https://owlemily.github.io/day029)
+  ![Daily Report](https://img.shields.io/badge/추석연휴-grey?style=flat)
+  ![Daily Report](https://img.shields.io/badge/추석-grey?style=flat)
+  ![Daily Report](https://img.shields.io/badge/추석연휴-grey?style=flat)
+  ![Daily Report](https://img.shields.io/badge/새로고침데이-grey?style=flat)
+  [![Daily Report](https://img.shields.io/badge/Day30-blue?style=flat)](https://owlemily.github.io/day030)
+<br><br>
+* [Week 7] NLP 기초 프로젝트
+  * [![Daily Report](https://img.shields.io/badge/Day31-red?style=flat)](https://owlemily.github.io/day031)
+  [![Daily Report](https://img.shields.io/badge/Day32-orange?style=flat)](https://owlemily.github.io/day032)
+  [![Daily Report](https://img.shields.io/badge/Day33-yellow?style=flat)](https://owlemily.github.io/day033)
+  [![Daily Report](https://img.shields.io/badge/Day34-green?style=flat)](https://owlemily.github.io/day034)
+  [![Daily Report](https://img.shields.io/badge/Day35-blue?style=flat)](https://owlemily.github.io/day035)
+<br><br>
+
+### **멘토링(김건우 멘토님)**
 <span style="color:grey">2024.08.05 ~ 2024.09.29</span>
 * CS224N : Natural Language Processsiong with Deep Learning
 * 강의 자료: [**CS224N Youtube**](https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4)
