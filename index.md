@@ -62,7 +62,8 @@ layout: home
   [![Daily Report](https://img.shields.io/badge/Day33-yellow?style=flat)](https://owlemily.github.io/day033)
   [![Daily Report](https://img.shields.io/badge/Day34-green?style=flat)](https://owlemily.github.io/day034)
   [![Daily Report](https://img.shields.io/badge/Day35-blue?style=flat)](https://owlemily.github.io/day035)
-<br>
+<br><br>
+
 ### **멘토링(김건우 멘토님)**
 <span style="color:grey">2024.08.05 ~ 2024.09.29</span>
 * CS224N : Natural Language Processsiong with Deep Learning
@@ -72,7 +73,7 @@ layout: home
   * 1인당 15~20분 발표 준비
   * 발표 자료는 notion page로 정리해서 Page 공유
   * 멘토링 시작 30분 전까지 발표 자료 공유 필수
- 
+<br><br>
  
 ### **level 2**
 <span style="color:grey">2024.09.30 ~ 2024.11.10</span>
